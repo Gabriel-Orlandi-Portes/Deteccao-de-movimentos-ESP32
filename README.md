@@ -52,7 +52,7 @@ O pino pode ser alterado diretamente no código caso necessário.
 # 📂 Estrutura do Projeto
 
 ```
-esp32-cam-telegram-motion-detector
+Deteccao-de-movimentos-ESP32
 │
 ├── esp32_cam_telegram.ino
 └── README.md
